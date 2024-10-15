@@ -46,7 +46,7 @@ export default function Navbar() {
           </a>
         </li>
         {/* Dropdown for Services */}
-        {/* <li className="nav-item dropdown">
+        <li className="nav-item dropdown">
           <a
             className="nav-link dropdown-toggle"
             href="#"
@@ -59,23 +59,28 @@ export default function Navbar() {
           </a>
           <ul className="dropdown-menu" aria-labelledby="servicesDropdown">
             <li>
-              <a className="dropdown-item" href="#">
-                Service 1
+              <a className="dropdown-item" href="/cts">
+              Corporate Courier Solutions
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
-                Service 2
+              <a className="dropdown-item" href="/dcs">
+              Domestic Courier Solutions
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
-                Service 3
+              <a className="dropdown-item" href="/ecommerce-delivery">
+              Ecommerce delivery
+              </a>
+            </li>
+            <li>
+              <a className="dropdown-item" href="/freight-forwarding">
+              Freight Forwarding
               </a>
             </li>
           </ul>
         </li>
-         */}
+        
         <li className="nav-item">
           <a className="nav-link" href="/contact">
             Contact Us
@@ -88,7 +93,7 @@ export default function Navbar() {
         </li>
       </ul>
       {/* Login Button */}
-      <a className="nav-link login-btn" href="#">
+      <a className="nav-link login-btn" href="/login">
         LOGIN
       </a>
     </div>

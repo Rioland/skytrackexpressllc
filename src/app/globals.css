@@ -233,6 +233,22 @@
 
 
 
+.content-section img {
+  width: 400px;
+  height: 200px;
+  margin-bottom: 5px;
+  border-radius: 90%;
+  margin-top: 100px;
+}
+
+
+
+.content-section ul{
+  font-size: small;
+  text-align: left;
+}
+
+
 
 
 
