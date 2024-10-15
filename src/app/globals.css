@@ -1,0 +1,361 @@
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+.navbar-brand img {
+  width: 100%;
+  height: 40px;
+}
+
+.login-btn {
+  background-color: red;
+  color: white;
+  padding: 5px 25px;
+}
+
+.login-btn:hover {
+  background-color: darkred;
+}
+
+.navbar {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.search-section {
+  background-image: url("/images/2.png");
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-container {
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+
+.form-control {
+  height: 50px;
+  font-size: 1.2rem;
+}
+
+.track-btn {
+  height: 50px;
+  font-size: 1.2rem;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 0 20px;
+}
+
+.track-btn:hover {
+  background-color: darkred;
+}
+
+.quote-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 20px;
+}
+
+.container-custom {
+  display: flex;
+  justify-content: center;
+  padding: 80px 0;
+}
+
+.quote-section img {
+  width: 100px;
+  height: auto;
+}
+
+.form-control,
+.btn {
+  height: 45px;
+  font-size: 0.9rem;
+}
+
+.dropdown-spacing select,
+.input-weight {
+  width: 150px;
+}
+
+.quote-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0 20px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+.quote-btn:hover {
+  background-color: darkred;
+}
+.services-section {
+  padding: 50px 0;
+}
+.okay {
+  text-align: center;
+}
+
+
+/* register */
+
+
+.reg .form-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 55%;
+  margin: 50px auto;
+}
+
+.reg .form-logo {
+  text-align: center;
+}
+
+.reg .form-logo img {
+  width: 200px;
+  height: 60px;
+}
+
+.reg .register-btn {
+  background-color: purple;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.reg .register-btn:hover {
+  background-color: darkpurple;
+}
+
+.reg .terms-text {
+  font-size: 0.9rem;
+  margin-left: 10px;
+}
+
+.reg .footer-text {
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.reg .footer-text a {
+  color: purple;
+}
+
+.reg .form-control {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.reg .form-control:focus {
+  box-shadow: none;
+  border-color: purple;
+}
+
+.reg .half-width {
+  width: 49%;
+}
+
+ .reg .row-spacing {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* abount */
+
+.about-us-section {
+  position: relative;
+  text-align: center;
+  color: white;
+  background: url('/images/trackbackgroundimage.jpg') no-repeat center center/cover;
+  height: 300px; /* Adjust height as needed */
+}
+
+ .about-us-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  font-weight: bold;
+}
+ .yes{
+  text-align: center;
+  margin-top: 40px;
+}
+ .yes  h4{
+  font-weight: 700;
+} 
+
+ .content-section {
+  text-align: center;
+  padding: 20px 0;
+}
+
+ .content-section h5 {
+  margin-bottom: 10px;
+  text-align: left;
+}
+ .content-section p{
+  font-size: medium;
+  text-align: left;
+}
+
+ .content-section a {
+  color: red;
+  font-size: small;
+  text-align: left;
+}
+
+ .custom-footer {
+  background-color: rgb(20, 20, 20);
+  color: white;
+  padding: 10px 0; /* Adjust height here */
+  margin-top: 100px;
+}
+
+
+
+
+
+
+/* tracking */
+.track .search-section {
+  background-image: url("/images/trackbackgroundimage.jpg");
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.track .search-container {
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+
+.track .form-control {
+  height: 50px;
+  font-size: 1.2rem;
+}
+
+.track .track-btn {
+  height: 50px;
+  font-size: 1.2rem;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 0 20px;
+}
+
+.track .track-btn:hover {
+  background-color: darkred;
+}
+.track .yes{
+  text-align: center;
+  margin-top: 30px;
+}
+.track .yes  h4{
+  font-weight: 700;
+} 
+
+.track .content-section {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.track .content-section img {
+  width: 40px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+.track .content-section h5 {
+  margin-bottom: 10px;
+}
+.track .content-section p{
+  font-size: smaller;
+}
+
+.track .content-section a {
+  color: red;
+}
+
+.custom-footer {
+  background-color: rgb(20, 20, 20);
+  color: white;
+  padding: 10px 0; /* Adjust height here */
+  margin-top: 100px;
+}
+
+.custom-footer p {
+  margin-left: 30px; /* Adjust left margin */
+}
+.custom-footer a {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.custom-footer a:hover {
+  text-decoration: underline;
+}
+
+
+.contact-form {
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+.send-btn {
+    background-color: red;
+    color: white;
+    width: 20%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.icon-column {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.icon-column img {
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.icon-column p {
+    margin-top: 10px;
+    font-size:15px;
+}
+.icon-column svg {
+    height: 35px;
+    width: 100%;
+    color: black;
+}
