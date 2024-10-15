@@ -30,11 +30,11 @@ export default function Navbar() {
             Home
           </a>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a className="nav-link" href="/register">
             Register
           </a>
-        </li>
+        </li> */}
         <li className="nav-item">
           <a className="nav-link" href="/tracking">
             Track
@@ -106,9 +106,9 @@ export default function Navbar() {
         </li> */}
       </ul>
       {/* Login Button */}
-      <a className="nav-link login-btn" href="/login">
+      {/* <a className="nav-link login-btn" href="/login">
         LOGIN
-      </a>
+      </a> */}
     </div>
   </div>
 </nav>
