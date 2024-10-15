@@ -99,11 +99,11 @@ export default function Navbar() {
             Contact Us
           </a>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a className="nav-link" href="/our-location">
             Location
           </a>
-        </li>
+        </li> */}
       </ul>
       {/* Login Button */}
       <a className="nav-link login-btn" href="/login">
