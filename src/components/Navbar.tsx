@@ -78,6 +78,19 @@ export default function Navbar() {
               Freight Forwarding
               </a>
             </li>
+
+            <li>
+              <a className="dropdown-item" href="/verification">
+              Third-party Verification(3pv)
+              </a>
+            </li>
+
+            <li>
+              <a className="dropdown-item" href="/training">
+              Training/Consultancy!
+              </a>
+            </li>
+
           </ul>
         </li>
         
