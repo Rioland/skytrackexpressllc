@@ -115,7 +115,7 @@ export default function Location() {
               </tr>
               <tr>
                 <td>Head Office</td>
-                <td>64 Seriki-Aro Avenue, Ikeja, Lagos</td>
+                <td>3086 Detroit Rd, Niles MI 49120</td>
                 <td>Ikeja</td>
                 <td>8AM to 5PM</td>
                 <td>Opened</td>
@@ -262,7 +262,7 @@ export default function Location() {
               </tr>
               <tr>
                 <td>Head Office</td>
-                <td>64 Seriki-Aro Avenue, Ikeja, Lagos</td>
+                <td>3086 Detroit Rd, Niles MI 49120</td>
                 <td>Ikeja</td>
                 <td>8AM to 5PM</td>
                 <td>Opened</td>
