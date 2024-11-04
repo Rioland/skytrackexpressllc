@@ -22,7 +22,7 @@ export default function freight() {
         </h1>
         <p>
           Our unbeatable global freight capability affords you speedy, <br />
-          convenient and safe cargo delivery to all cities in Nigeria and <br />
+          convenient and safe cargo delivery to all cities in US Michigan and <br />
           the rest of the world. We are able to provide and utilize a highly
           efficient <br />
           network that ensures our clients’ cargoes are moved in minimal <br />

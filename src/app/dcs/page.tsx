@@ -22,15 +22,15 @@ export default function dcs() {
           Solutions
         </h1>
         <p>
-          We have a strong logistics presence across Nigeria. We provide <br />
+          We have a strong logistics presence across US Michigan. We provide <br />
           multiple delivery options when sending packages. Whether you <br />
           are sending packages within your city or to a different state, GEx{" "}
           <br />
           Deliveries offers the most affordable &amp; efficient domestic courier{" "}
           <br />
-          service to all states in Nigeria. We have some of the cheapest Same{" "}
+          service to all states in US Michigan. We have some of the cheapest Same{" "}
           <br />
-          Day Delivery rates available online in Nigeria! <br />
+          Day Delivery rates available online in US Michigan! <br />
           <br />
           Your parcel will be dropped off at any of our location closest to you{" "}
           <br />

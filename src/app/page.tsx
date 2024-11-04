@@ -13,13 +13,13 @@ export default function Home() {
           <div className="dropdown-spacing">
             <select className="form-control">
               <option>Select Country</option>
-              <option>Nigeria</option>
+              <option>US Michigan</option>
               <option>Other Country</option>
             </select>
             <br />
             <select className="form-control">
               <option>Select Country </option>
-              <option>Nigeria</option>
+              <option>US Michigan</option>
               <option>Other Country</option>
             </select>
           </div>
@@ -46,7 +46,7 @@ export default function Home() {
             skytrackexpressllc Logistics provides you with effective One stop logistics
             solution for retail companies with greater focus on highly dynamic
             and rapidly <br />
-            growing ecommerce industry in Nigeria.
+            growing ecommerce industry in US Michigan.
           </p>
           <div className="row">
             <div className="col-md-4">
