@@ -52,10 +52,11 @@ export default function about() {
                 customer success by leveraging on new technologies. skytrackexpressllc <br />
                 Logistics will operate a network of delivery champions serving{" "}
                 <br />
+
                 thousands of users and businesses with the aim to become <br />
                 the preferred on-demand hyper local fulfilment service <br />
                 company in Michigan We aim to create over 2024 jobs across <br />
-                US Michigan within 3-5years of our operation with our unique <br />
+                 Michigan within 3-5years of our operation with our unique <br />
                 business model.
               </p>
               <a href="#">

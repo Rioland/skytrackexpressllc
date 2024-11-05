@@ -22,7 +22,7 @@ export default function dcs() {
           Solutions
         </h1>
         <p>
-          We have a strong logistics presence across US Michigan. We provide <br />
+          We have a strong logistics presence across  Michigan. We provide <br />
           multiple delivery options when sending packages. Whether you <br />
           are sending packages within your city or to a different state, GEx{" "}
           <br />
