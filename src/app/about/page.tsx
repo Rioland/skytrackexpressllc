@@ -43,7 +43,7 @@ export default function about() {
             <div className="col-md-6">
               <h5>Our Vision</h5>
               <p>
-                To be US Michigan ’s most favoured logistics service provider,{" "}
+                To be Michigan ’s most favoured logistics service provider,{" "}
                 <br />
                 delivering world class service to it’s clients by providing{" "}
                 <br />
@@ -54,7 +54,7 @@ export default function about() {
                 <br />
                 thousands of users and businesses with the aim to become <br />
                 the preferred on-demand hyper local fulfilment service <br />
-                company in US Michigan We aim to create over 2024 jobs across <br />
+                company in Michigan We aim to create over 2024 jobs across <br />
                 US Michigan within 3-5years of our operation with our unique <br />
                 business model.
               </p>

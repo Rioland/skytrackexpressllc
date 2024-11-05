@@ -5,39 +5,7 @@ export default function Home() {
   return (
     <div className="">
       <SearchTrackingId />
-      <div className=" container container-custom">
-        <div className="quote-section">
-          {/* Image */}
-          <img src="./home images/3.jpg" alt="Image" />
-          {/* Dropdowns */}
-          <div className="dropdown-spacing">
-            <select className="form-control">
-              <option>Select Country</option>
-              <option>US Michigan</option>
-              <option>Other Country</option>
-            </select>
-            <br />
-            <select className="form-control">
-              <option>Select Country </option>
-              <option>US Michigan</option>
-              <option>Other Country</option>
-            </select>
-          </div>
-          <select className="form-control dropdown-spacing">
-            <option>Select State</option>
-            <option>Lagos</option>
-            <option>Abuja</option>
-            <option>Other States</option>
-          </select>
-          <input
-            type="text"
-            className="form-control input-weight"
-            placeholder="Weight"
-          />
-          <button className="quote-btn">Get Quotes</button>
-        </div>
-      </div>
-
+      {/* company in US Michigan */}
       <>
         {/* Services Section */}
         <div className="services-section container text-center">
@@ -46,7 +14,7 @@ export default function Home() {
             skytrackexpressllc Logistics provides you with effective One stop logistics
             solution for retail companies with greater focus on highly dynamic
             and rapidly <br />
-            growing ecommerce industry in US Michigan.
+            growing ecommerce industry in Michigan.
           </p>
           <div className="row">
             <div className="col-md-4">
